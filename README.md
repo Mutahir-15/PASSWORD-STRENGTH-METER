@@ -18,8 +18,8 @@ Follow these steps to run the app on your local machine:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-repo/password-strength-meter.git
+   git clone https://github.com/Mutahir-15/PASSWORD-STRENGTH-METER.git
    cd password-strength-meter
 
 ## 🔗 Web App's Link:
-**Try it Now:** [Password Strength Meter](https://password-strength-meter-p2.streamlit.app/)
+**🌐 Try it Now:** [Password Strength Meter](https://password-strength-meter-p2.streamlit.app/)
