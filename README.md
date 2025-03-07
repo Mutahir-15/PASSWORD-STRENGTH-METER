@@ -12,7 +12,6 @@ This **Password Strength Meter** is built using **Streamlit** to analyze and eva
 ## 🛠 Tech Stack  
 - **Python** 🐍  
 - **Streamlit** 📊  
-- **AI for Suggestions** 🤖  
 
 ## 🎯 How to Run Locally  
 Follow these steps to run the app on your local machine:  
