@@ -1,10 +1,9 @@
 # 🔐 Password Strength Meter | Streamlit App  
 
-This **Password Strength Meter** is built using **Streamlit** to analyze and evaluate the security of passwords in real-time. It provides **instant feedback, strength rating, and AI-powered suggestions** to help users create **stronger passwords** for better security.  
+This **Password Strength Meter** is built using **Streamlit** to analyze and evaluate the security of passwords in real-time. It provides **instant feedback, strength rating** to help users create **stronger passwords** for better security.  
 
 ## 🚀 Features  
 - ✅ **Real-time Password Analysis** – Instantly evaluates password strength  
-- ✅ **AI-Powered Suggestions** – Get tips to improve weak passwords  
 - ✅ **Security Insights** – Detects common vulnerabilities  
 - ✅ **Simple & User-Friendly** – Easy-to-use interface built with Streamlit  
 - ✅ **Open Source** – Contributions & improvements are welcome!  
